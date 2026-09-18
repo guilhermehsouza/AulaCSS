@@ -8,9 +8,9 @@ h1
 {
     background-color: #960000;
     color : white;
-    padding: 30px;
-    margin : 0;
     text-align: center;
+    margin : 0;
+    padding: 20px;
 }
 
 div
@@ -22,9 +22,7 @@ div
 
 h3
 {
-    color : #000096;
-    margin-bottom: 30px;
-    margin-top : 0;
+    color : #960000;
 }
 
 .azul
